@@ -89,7 +89,7 @@ btn:hover{
 .bottom-container{
   padding: 50px 0 20px;
   background-color: #66BFBF;
-  padding: 50px 0 20px;
+ 
 }
 
 a{
@@ -120,7 +120,7 @@ margin: 40px auto 40px auto;
   width: 10%;
   position: absolute;
   left: 200px;
-  bottom: 400px;
+  bottom: 500px;
 }
 .pro{
   text-align: underline;
